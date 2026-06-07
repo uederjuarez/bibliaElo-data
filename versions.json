@@ -1,0 +1,223 @@
+{
+  "catalog_version": "1.0.0",
+  "updated_at": "2026-06-07",
+  "versions": [
+    {
+      "code": "pt_blivre",
+      "name": "Bíblia Livre",
+      "language": "pt",
+      "languageName": "Português",
+      "flag": "🇵🇹",
+      "description": "Almeida atualizada, Textus Receptus (CC BY 4.0)",
+      "license": "CC BY 4.0",
+      "attribution": "Copyright © 2018 Diego Santos, Mario Sérgio, e Marco Teles. Licença Creative Commons Atribuição 4.0 Brasil.",
+      "source": "https://ebible.org/find/details.php?id=porbr2018",
+      "jsonFile": "pt_blivre.json",
+      "sizeMB": 3.8
+    },
+    {
+      "code": "en_kjv",
+      "name": "King James Version",
+      "language": "en",
+      "languageName": "English",
+      "flag": "🇬🇧",
+      "description": "Classic English translation (Public Domain)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": "https://ebible.org",
+      "jsonFile": "en_kjv.json",
+      "sizeMB": 4.3
+    },
+    {
+      "code": "en_bbe",
+      "name": "Bible in Basic English",
+      "language": "en",
+      "languageName": "English",
+      "flag": "🇬🇧",
+      "description": "Simple modern English (Public Domain)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": "https://ebible.org",
+      "jsonFile": "en_bbe.json",
+      "sizeMB": 4.1
+    },
+    {
+      "code": "es_rvr",
+      "name": "Reina Valera 1909",
+      "language": "es",
+      "languageName": "Español",
+      "flag": "🇪🇸",
+      "description": "Traducción clásica al español (Dominio Público)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": "https://ebible.org",
+      "jsonFile": "es_rvr.json",
+      "sizeMB": 3.8
+    },
+    {
+      "code": "fr_apee",
+      "name": "La Bible de l'Épée",
+      "language": "fr",
+      "languageName": "Français",
+      "flag": "🇫🇷",
+      "description": "Traduction française historique (Domaine Public)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": "https://ebible.org",
+      "jsonFile": "fr_apee.json",
+      "sizeMB": 4.2
+    },
+    {
+      "code": "ro_cornilescu",
+      "name": "Cornilescu",
+      "language": "ro",
+      "languageName": "Română",
+      "flag": "🇷🇴",
+      "description": "Versiunea Dumitru Cornilescu 1924",
+      "license": "Verificar",
+      "attribution": null,
+      "source": null,
+      "jsonFile": "ro_cornilescu.json",
+      "sizeMB": 4.1
+    },
+    {
+      "code": "ru_synodal",
+      "name": "Синодальный перевод",
+      "language": "ru",
+      "languageName": "Русский",
+      "flag": "🇷🇺",
+      "description": "Синодальный перевод Библии 1876 (Общественное достояние)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": "https://ebible.org",
+      "jsonFile": "ru_synodal.json",
+      "sizeMB": 5.6
+    },
+    {
+      "code": "ar_svd",
+      "name": "الكتاب المقدس",
+      "language": "ar",
+      "languageName": "العربية",
+      "flag": "🇸🇦",
+      "description": "Smith & Van Dyke Arabic Bible 1865 (Public Domain)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": "https://ebible.org",
+      "jsonFile": "ar_svd.json",
+      "sizeMB": 4.1
+    },
+    {
+      "code": "el_greek",
+      "name": "Νεοελληνική Μετάφραση",
+      "language": "el",
+      "languageName": "Ελληνικά",
+      "flag": "🇬🇷",
+      "description": "Modern Greek translation",
+      "license": "Verificar",
+      "attribution": null,
+      "source": null,
+      "jsonFile": "el_greek.json",
+      "sizeMB": 7.3
+    },
+    {
+      "code": "zh_cuv",
+      "name": "和合本",
+      "language": "zh",
+      "languageName": "中文",
+      "flag": "🇨🇳",
+      "description": "Chinese Union Version 1919 (Public Domain)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": "https://ebible.org",
+      "jsonFile": "zh_cuv.json",
+      "sizeMB": 4.1
+    },
+    {
+      "code": "ko_ko",
+      "name": "개역한글",
+      "language": "ko",
+      "languageName": "한국어",
+      "flag": "🇰🇷",
+      "description": "Revised Korean Version 1961 (Public Domain since 2012)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": null,
+      "jsonFile": "ko_ko.json",
+      "sizeMB": 4.4
+    },
+    {
+      "code": "vi_vietnamese",
+      "name": "Kinh Thánh",
+      "language": "vi",
+      "languageName": "Tiếng Việt",
+      "flag": "🇻🇳",
+      "description": "Vietnamese Bible 1934 (Public Domain)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": "https://ebible.org",
+      "jsonFile": "vi_vietnamese.json",
+      "sizeMB": 5.0
+    },
+    {
+      "code": "fi_finnish",
+      "name": "Finnish Bible 1933/38",
+      "language": "fi",
+      "languageName": "Suomi",
+      "flag": "🇫🇮",
+      "description": "Suomalainen Raamattu 1933/38 (Public Domain)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": null,
+      "jsonFile": "fi_finnish.json",
+      "sizeMB": 4.2
+    },
+    {
+      "code": "fi_pr",
+      "name": "Pyhä Raamattu",
+      "language": "fi",
+      "languageName": "Suomi",
+      "flag": "🇫🇮",
+      "description": "Pyhä Raamattu (Public Domain)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": null,
+      "jsonFile": "fi_pr.json",
+      "sizeMB": 2.9
+    },
+    {
+      "code": "eo_esperanto",
+      "name": "Londona Biblio",
+      "language": "eo",
+      "languageName": "Esperanto",
+      "flag": "🌐",
+      "description": "Biblio en Esperanto 1910 (Public Domain)",
+      "license": "Public Domain",
+      "attribution": null,
+      "source": "https://ebible.org",
+      "jsonFile": "eo_esperanto.json",
+      "sizeMB": 3.8
+    }
+  ],
+  "removed": [
+    {
+      "code": "pt_acf",
+      "reason": "Copyright Sociedade Bíblica Trinitariana do Brasil — requer autorização para uso integral"
+    },
+    {
+      "code": "pt_aa",
+      "reason": "Edição revista pode ter copyright — precisa verificação"
+    },
+    {
+      "code": "pt_nvi",
+      "reason": "Copyright Biblica, Inc. — uso sem licença é ilegal"
+    },
+    {
+      "code": "zh_ncv",
+      "reason": "New Chinese Version — copyright ativo"
+    },
+    {
+      "code": "de_schlachter",
+      "reason": "Schlachter 2000 copyright Genfer Bibelgesellschaft — versão no repo pode ser a edição protegida"
+    }
+  ]
+}
